@@ -1,0 +1,16 @@
+remote\tasks.o: ..\Middle\FreeRTOS\tasks.c
+remote\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+remote\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+remote\tasks.o: ../Middle/FreeRTOS/include/FreeRTOS.h
+remote\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+remote\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+remote\tasks.o: ../Middle/FreeRTOS/include/FreeRTOSConfig.h
+remote\tasks.o: ../Middle/FreeRTOS/include/projdefs.h
+remote\tasks.o: ../Middle/FreeRTOS/include/portable.h
+remote\tasks.o: ../Middle/FreeRTOS/include/deprecated_definitions.h
+remote\tasks.o: ../Middle/FreeRTOS/portable/RVDS/ARM_CM3/portmacro.h
+remote\tasks.o: ../Middle/FreeRTOS/include/mpu_wrappers.h
+remote\tasks.o: ../Middle/FreeRTOS/include/task.h
+remote\tasks.o: ../Middle/FreeRTOS/include/list.h
+remote\tasks.o: ../Middle/FreeRTOS/include/timers.h
+remote\tasks.o: ../Middle/FreeRTOS/include/stack_macros.h

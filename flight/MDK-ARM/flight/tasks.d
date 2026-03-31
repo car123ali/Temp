@@ -1,0 +1,16 @@
+flight\tasks.o: ..\Middle\FreeRTOS\tasks.c
+flight\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+flight\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+flight\tasks.o: ../Middle/FreeRTOS/include/FreeRTOS.h
+flight\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+flight\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+flight\tasks.o: ../Middle/FreeRTOS/include/FreeRTOSConfig.h
+flight\tasks.o: ../Middle/FreeRTOS/include/projdefs.h
+flight\tasks.o: ../Middle/FreeRTOS/include/portable.h
+flight\tasks.o: ../Middle/FreeRTOS/include/deprecated_definitions.h
+flight\tasks.o: ../Middle/FreeRTOS/portable/RVDS/ARM_CM3/portmacro.h
+flight\tasks.o: ../Middle/FreeRTOS/include/mpu_wrappers.h
+flight\tasks.o: ../Middle/FreeRTOS/include/task.h
+flight\tasks.o: ../Middle/FreeRTOS/include/list.h
+flight\tasks.o: ../Middle/FreeRTOS/include/timers.h
+flight\tasks.o: ../Middle/FreeRTOS/include/stack_macros.h
