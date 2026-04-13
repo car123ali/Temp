@@ -1,9 +1,0 @@
-flight\vl53l1x_api.o: ..\Interface\Src\VL53L1X_api.c
-flight\vl53l1x_api.o: ../Interface/Inc/VL53L1X_api.h
-flight\vl53l1x_api.o: ../Interface/Inc/vl53l1_platform.h
-flight\vl53l1x_api.o: ../Interface/Inc/vl53l1_types.h
-flight\vl53l1x_api.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-flight\vl53l1x_api.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
-flight\vl53l1x_api.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-flight\vl53l1x_api.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-flight\vl53l1x_api.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
